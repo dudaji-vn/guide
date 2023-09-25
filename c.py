@@ -1,9 +1,9 @@
 def hello_c():
     pass
-    pass
-    pass
-    pass
-    print("hello")
+    # pass
+    # pass
+    # pass
+    # print("hello")
     
     
     
@@ -12,7 +12,7 @@ def hello_c():
     
 
 def calculate():
-    b= 1
+    bank= 1
     c =2
     deposit= 3
-    a = int( b ) + int(c) - deposit
+    apple = int( bank ) + int(c) - deposit
