@@ -1,2 +1,4 @@
 # Member
-- shhong
+
+-   shhong
+-   sun
