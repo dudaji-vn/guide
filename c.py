@@ -12,7 +12,7 @@ def hello_c():
     
 
 def calculate():
-    bank= 1
+    b= 1
     c =2
     deposit= 3
-    apple = int( bank ) + int(c) - deposit
+    a = int( b ) + int(c) - deposit
