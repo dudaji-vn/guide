@@ -1,9 +1,9 @@
 def hello_c():
     pass
-    # pass
-    # pass
-    # pass
-    # print("hello")
+    pass
+    pass
+    pass
+    print("hello")
     
     
     
