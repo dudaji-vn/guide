@@ -1,13 +1,18 @@
 def hello_c():
     pass
-    # pass
-    # pass
-    # pass
-    # print("hello")
-
+    pass
+    pass
+    pass
+    print("hello")
+    
+    
+    
+    
+    
+    
 
 def calculate():
-    bank = 1
-    c = 2
-    deposit = 3
-    apple = int(bank) + int(c) - deposit
+    b= 1
+    c =2
+    deposit= 3
+    a = int( b ) + int(c) - deposit
