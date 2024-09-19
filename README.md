@@ -1,8 +1,8 @@
 # Member
 
--   shhong
--   sun
--   bill
--   huyen
--   khoa
--   vani
+- shhong
+- sun
+- bill
+- huyen
+- khoa
+- vang
