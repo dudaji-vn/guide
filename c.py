@@ -4,12 +4,7 @@ def hello_c():
     # pass
     # pass
     print("hello")
-    
-    
-    
-    
-    
-    
+
 
 def calculate():
     bank = 1
